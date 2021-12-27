@@ -1,5 +1,5 @@
 .. django_cityloc_pkg documentation master file, created by
-   sphinx-quickstart on Mon Dec 27 10:49:21 2021.
+   sphinx-quickstart on Mon Dec 27 16:12:41 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -11,6 +11,7 @@ Welcome to django_cityloc_pkg's documentation!
    :caption: Contents:
 
 .. automodule:: django_cityloc_pkg_mayankkrshah
+   :members:
 
 Indices and tables
 ==================
